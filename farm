@@ -16,8 +16,8 @@ _G.GMINING_EVENT_MAX_AUTO_CRAFT_RECIPE = 2
 _G.GLOOTBOXES = {"Locked Hype Egg"}
 _G.GGFX_MODE = 1 -- or 2 to still see something
 _G.GZONE_TO = 99 -- to enter event from W3 intead put 999
-_G.GWEBHOOK_USERID = ""
-_G.GWEBHOOK_LINK = ""
+_G.GWEBHOOK_USERID = "1259809462827356194"
+_G.GWEBHOOK_LINK = "https://discord.com/api/webhooks/1311587423121178684/uLcDkJCzbqFFa_3MWp07izqRKLy0bwgQKLD67RPQ2zDNyxxPOJc1vkl8XB3pMo0VcL2L"
 _G.GMAIL_RECEIVERS = {"zinikox"} -- for Mailing items/pets
 _G.GMAIL_ITEMS = {
 ["All Huges"] = {Class = "Pet", Id = "All Huges", MinAmount = 1},
